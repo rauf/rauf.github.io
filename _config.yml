@@ -1,9 +1,7 @@
 # Site settings
 title: Decinary
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Programming Blog
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://decinary.com" # the base hostname & protocol for your site
@@ -13,9 +11,9 @@ author:
   googleplus: https://plus.google.com/u/0/+AbdulRauf3
   github: rauf
   #twitter: 
-  # disqus: your_disqus_forum_shortname
+  disqus: decinary
 
-# google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-86296231-1'
 
 # Syntax highlighting
 highlightstyle: ''
